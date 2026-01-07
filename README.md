@@ -27,6 +27,13 @@ Right now, I’m focused on building strong foundations in **programming and pro
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" alt="Notion"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
 </p>
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,c" width="40" alt="Languages"/>
+  
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,notion" width="40" alt="Tools"/>
+</p>
 
 ---
 
