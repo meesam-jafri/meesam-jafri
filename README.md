@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Meesam's Banner" width="100%"/>
-</p>
-
 # Hey, I'm Meesam 👋
 
 I'm a **Computer Science student** who enjoys turning ideas and data into things that actually make sense.  
@@ -33,7 +29,7 @@ Right now, I’m focused on building strong foundations in **programming and pro
 - Built data science projects using **Python & machine learning**
 - Worked on **customer behavior prediction** and **sentiment analysis**
 - Volunteered as a **Teaching Assistant**, helping others learn Python
-- Built CLI based **Scrabble** with group partner Abdullah Baig
+- Built CLI based **Scrabble** with Abdullah Baig
 - Built **Study Abroad** website with Zuhair Ali.
 
 ---
@@ -42,11 +38,6 @@ Right now, I’m focused on building strong foundations in **programming and pro
 - Improving my data science skills  
 - Practicing algorithms & logic  
 - Working on small but meaningful projects  
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meesam-jafri&show_icons=true&theme=default)
 
 ---
 
