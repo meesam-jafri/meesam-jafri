@@ -42,7 +42,7 @@ Right now, I’m focused on building strong foundations in **programming and pro
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meesam-jafri&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meesam-jafri&show_icons=true&theme=default)
 
 ---
 
