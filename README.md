@@ -8,9 +8,9 @@ Right now, I’m focused on building strong foundations in **programming and pro
 ---
 
 ## 🚀 What I’m into
-- Python programming & data analysis  
-- Learning how data tells stories  
-- Exploring machine learning & analytics  
+- Python programming & data analysis
+- Learning how data tells stories
+- Exploring machine learning & analytics
 
 ---
 
@@ -29,7 +29,8 @@ Right now, I’m focused on building strong foundations in **programming and pro
 - Built data science projects using **Python & machine learning**
 - Worked on **customer behavior prediction** and **sentiment analysis**
 - Volunteered as a **Teaching Assistant**, helping others learn Python
-- Comfortable debugging code and explaining concepts simply
+- Built CLI based **Scrabble** with group partner Abdullah Baig
+- Built **Study Abroad** website with Zuhair Ali.
 
 ---
 
