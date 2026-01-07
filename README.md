@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Meesam's Banner" width="100%"/>
+</p>
+
 # Hey, I'm Meesam 👋
 
 I'm a **Computer Science student** who enjoys turning ideas and data into things that actually make sense.  
