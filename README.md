@@ -17,7 +17,7 @@ Right now, I’m focused on building strong foundations in **programming and pro
 ## 🧠 Tech I work with
 <p align="left">
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,c" height="60" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,c,cpp" height="60" alt="Languages"/>
   
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode,notion" height="60" alt="Tools"/>
